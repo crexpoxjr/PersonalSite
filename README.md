@@ -1,1 +1,1 @@
-A personal site for the Global Accelerator Program
+My personal website for documentation, logging, and showing off projects.
